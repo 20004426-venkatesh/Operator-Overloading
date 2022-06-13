@@ -16,7 +16,7 @@
  
  
  ## Program
- ```python
+ ```c#
 using System;
 class example
 {
@@ -52,8 +52,8 @@ class example
 }
  ```
  ## Output:
- ![cc](https://user-images.githubusercontent.com/75235006/171589119-afc1fb59-cfff-49dc-a892-45f7c653e91f.png)
-
+ 
+ ![Annotation 2022-05-30 090441](https://user-images.githubusercontent.com/75235233/170912567-47b40f32-8df5-4842-ac09-c44679115a15.png)
 
  
  ## Result:
